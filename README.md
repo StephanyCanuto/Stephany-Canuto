@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=120&section=header">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7b2cbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Stephany+Canuto;I'm+18+years+old;I'm+from+Brazil;I'm+a+Full+Stack+Developement+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Stephany+Canuto;I'm+18+years+old;I'm+from+Brazil;I'm+a+Full+Stack+Developement+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Stephany-Canuto&bg_color=0d1117&color=7b2cbf&line=7b2cbf&point=9d4edd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -28,8 +28,8 @@
 </div>
 <br>
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Stephany-Canuto}/count.svg" /></p> 
 <br>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
